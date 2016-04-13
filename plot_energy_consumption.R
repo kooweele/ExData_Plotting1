@@ -1,4 +1,5 @@
 ## Calling this function plot_energy_consumption routine will invoke the required functions to plot all graphs
+## Setup the right path in setWorking_ExploratoryData_Assgn1 function before use
 plot_energy_consumption <- function() {
         library(lubridate)
         library(data.table)
