@@ -1,4 +1,4 @@
-
+## Calling this function plot_energy_consumption routine will invoke the required functions to plot all graphs
 plot_energy_consumption <- function() {
         library(lubridate)
         library(data.table)
