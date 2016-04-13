@@ -1,6 +1,6 @@
 ### Revision 
-13-April-2016
-I have initially created ONE R-script "plot_energy_consumption.R" to plot all 4 graphs instead of having 4 $ scripts for plotting. 
+13-April-2016:
+I have initially created ONE R-script "plot_energy_consumption.R" to plot all 4 graphs instead of having 4 R scripts for plotting. 
 I have since broken up the my "plot_energy_consumption.R" script into plot1.R, plot2.R, plot3.R and plot4.R after realizing what the assignment is asking for and reviewing what others have done.
 
 ## Introduction
